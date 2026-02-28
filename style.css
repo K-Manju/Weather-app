@@ -1,0 +1,10 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+}
+
+body{
+    background: linear-gradient(to right, #6D9E51, #FEFFD3);
+}
+
