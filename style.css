@@ -5,6 +5,31 @@
 }
 
 body{
-    background: linear-gradient(to right, #6D9E51, #FEFFD3);
+    background: linear-gradient(to left, #6594B1, #EEEEEE);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+}
+
+h1{
+    color: #213C51;
+}
+
+input{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+
 }
 
